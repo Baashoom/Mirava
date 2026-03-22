@@ -78,6 +78,8 @@ This repository maintains an up-to-date list of trusted domestic mirrors for wid
 | [kargadan.ir](https://mirror.kargadan.ir/) | High-Speed Package Mirror for Iranian Developers | NuGet, PyPI, Yarn, Docker Registry, MCR, Maven/Gradle, Go Proxy, Composer,
 | [hyperclouds.ir](https://mirrors.hyperclouds.ir/) | Hyperclouds Mirrors | Cargo, Ubuntu, Alpine, Debian, RubyGems, Go Proxy, PyPI, Docker Registry |
 | [gitdl.theazizi.ir](https://gitdl.theazizi.ir) | A tool designed to bypass GitHub download restrictions for releases and source code | Simple GitHub release proxy  |
+| [alldriver.ir](https://www.alldriver.ir) | A large repository for downloading hardware drivers (printers, GPUs, modems, and more) | Driver archive / mirror |
+| [llm.targoman.ir](https://llm.targoman.ir/shares) | A multi-purpose mirror hosting datasets, LLM resources, software packages, ISO files, security tools, and development resources | Data & software mirror hub |
 ---
 
 ## 🌍 Global & Official Mirrors
